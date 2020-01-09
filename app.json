@@ -1,0 +1,62 @@
+{
+    "app": {
+        "name": "Server Guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "",
+        "interstitialId": ""
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "About Human Fall Flat",
+          "url": "https://aquila08.github.io/human2020/Menu1.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page2": {
+          "title": "How to Complete Human Fall Flat –  Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu2.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page3": {
+          "title": "Train Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu3.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page4": {
+          "title": "Canyon Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu4.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page5": {
+          "title": "Construction Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu5.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page6": {
+          "title": "Castle Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu6.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page7": {
+          "title": "Water Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu7.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+        },
+        "page8": {
+          "title": "Power Plant Level Walkthrough",
+          "url": "https://aquila08.github.io/human2020/Menu8.html",
+          "img": "https://www.freepngimg.com/thumb/animation/88486-television-behavior-wallpaper-question-desktop-human-highdefinition.png"
+
+	    },
+        "page9": {
+          "title": "Good Luck!",
+          "url": "https://aquila08.github.io/human2020/Menu9.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+        }
+      }
+}
